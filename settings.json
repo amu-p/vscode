@@ -19,5 +19,5 @@
   "git.autofetch": true,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.wordWrap": "off",
-  "editor.tabSize": 4
+  "editor.tabSize": 3
 }
